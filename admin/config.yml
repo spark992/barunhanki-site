@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: spark992/barunhanki-site
+  name: git-gateway
   branch: main
 
 locale: ko

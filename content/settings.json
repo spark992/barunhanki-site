@@ -1,12 +1,12 @@
 {
-  "meal_plan_image": "",
-  "kakao": "br2375",
-  "change_deadline": "당일 오전 9시까지",
   "brand": "바른한끼",
   "price": "1인분 7,500원",
   "phone": "010-5955-2375",
+  "kakao": "br2375",
+  "delivery": "대구 전 지역 / 외곽지역은 주문 전 배달 가능 여부 문의",
   "order": "전날 예약 주문",
-  "delivery": "대구 전 지역 / 외곽지역은 주문 전 배달 가능 여부 문의 (문자 or 카톡 문의 가능)",
-  "notice": "오픈 전 최종 식단으로 교체해 주세요.",
-  "meal_plan_title": "8월 식단표!"
+  "change_deadline": "당일 오전 9시까지",
+  "meal_plan_title": "8월 식단표",
+  "meal_plan_image": "",
+  "notice": "오픈 전 최종 식단으로 교체해 주세요."
 }
