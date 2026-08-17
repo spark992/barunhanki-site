@@ -1,5 +1,5 @@
 (function(){
-  const SETTINGS_URL = '/콘텐츠/settings.json';
+  const SETTINGS_URL = '/content/settings.json';
   let cmsSettings = {};
 
   function normalizePhone(value){ return String(value || '').replace(/[^0-9+]/g,''); }
