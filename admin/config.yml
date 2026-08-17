@@ -2,6 +2,7 @@ backend:
   name: github
   repo: spark992/barunhanki-site
   branch: main
+  site_domain: radiant-queijadas-d10360.netlify.app
 
 locale: ko
 media_folder: "images/uploads"
